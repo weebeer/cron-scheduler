@@ -1,0 +1,22 @@
+{
+  "name": "cron-scheduler",
+  "version": "1.0.0",
+  "description": "A Configurable Cron Scheduler",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weebeer/cron-scheduler.git"
+  },
+  "author": "Francisco Weber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weebeer/cron-scheduler/issues"
+  },
+  "homepage": "https://github.com/weebeer/cron-scheduler#readme",
+  "dependencies": {
+    "node-cron": "^3.0.2"
+  }
+}
